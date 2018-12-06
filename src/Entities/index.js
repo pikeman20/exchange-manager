@@ -1,0 +1,14 @@
+module.exports.Asset = require('./Asset');
+module.exports.ChartCandles = require('./ChartCandles');
+module.exports.Event = require('./Event');
+module.exports.Exchange = require('./Exchange');
+module.exports.Fill = require('./Fill');
+module.exports.Fillbook = require('./Fillbook');
+module.exports.Market = require('./Market');
+module.exports.MarketName = require('./MarketName');
+module.exports.Message = require('./Message');
+module.exports.Order = require('./Order');
+module.exports.Orderbook = require('./Orderbook');
+module.exports.OrderbookLineItem = require('./OrderbookLineItem');
+module.exports.Wallet = require('./Wallet');
+module.exports.Trade = require('./Trade');
